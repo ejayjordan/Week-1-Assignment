@@ -1,0 +1,82 @@
+h1{
+    color: azure;
+    background-color: #58355E;
+    border-radius: 50px;
+    border-width: 10px;
+    border-style: double;
+    border-color: #412447;
+    padding: 25px;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    color: #9b58a7;
+    font-size: 20px;
+}
+
+p{
+    background-color: azure;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: #58355E;
+    color: #58355E;
+    margin: 10px 60px;
+    padding: 30px;
+    text-align: justify;
+    font-size: 15px;
+}
+
+ol{
+    background-color: azure;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: #58355E;
+    color: #58355E;
+    margin: 10px 60px;
+    padding: 0px 30px 30px;
+    text-align: justify;
+    font-size: 15px;
+}
+
+body{
+    background-image: url("image/image_water.jpg");
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.anime {
+    margin: 0px 75px;
+    scale: 120%;
+    padding: 50px;
+}
+
+.fwog{
+    margin: 0px 10px;
+    padding: 50px;
+}
+
+.links{
+    background-color: azure;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: #58355E;
+    margin: 10px 60px;
+    padding: 30px;
+    text-align: center;
+    word-spacing: 50px;
+}
+
+.back{
+    background-color: azure;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: #58355E;
+    margin: 0px 60px;
+    margin-right: 850px;
+    padding: 10px;
+    text-align: left;
+}
+
+a {
+    color:rgb(183, 0, 255);
+}
